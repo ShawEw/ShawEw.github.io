@@ -1,1 +1,1 @@
-var posts=["2023/09/27/hello-world/","2023/09/28/vue3-入门/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/09/28/vue3-入门/","2023/09/27/hello-world/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
